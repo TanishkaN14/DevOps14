@@ -4,3 +4,4 @@ result=num1-num2
 print("The subtraction of two numbers:",result)
 print("The subtraction of two numbers:",result)
 print("Tanishka")
+print("Tanishka")
